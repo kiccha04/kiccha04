@@ -47,6 +47,3 @@ I enjoy exploring **DSA, Cloud Computing, and Networking**, and building practic
 
 ---
 
-## 📈 GitHub Stats
-![Prem TV's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiccha04&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiccha04&layout=compact&theme=radical)
