@@ -39,21 +39,18 @@ I’m currently focused on **Java, Spring Boot, and API security**, and actively
 
 ## 🚀 Featured Projects
 
-- 🔐 **Spring Boot REST API Security – Basic Auth & RBAC**  
-  Secure REST APIs using Spring Security, JDBC authentication, BCrypt encryption, and role-based access control.  
+- 🔐 **Spring Security – Basic Authentication & Role-Based Access Control**  
+  Implemented secure REST APIs using Spring Boot and Spring Security with JDBC authentication, BCrypt password encryption, and role-based authorization (EMPLOYEE, MANAGER, ADMIN).  
   👉 https://github.com/kiccha04/Spring-security-basic-authentication
 
-- 🌦 **Weather App**  
-  Live weather updates using OpenWeather API.  
-  👉 https://github.com/kiccha04/weather-app  
+- 🧑‍💼 **Employee Management REST API**  
+  Built a CRUD-based backend application using Spring Boot, Spring Data JPA, and MySQL. Implemented layered architecture and tested APIs using Postman.  
+  👉 https://github.com/kiccha04/employee-management-rest-api
 
-- 💹 **Crypto App**  
-  Cryptocurrency tracking with real-time charts.  
-  👉 https://github.com/kiccha04/crypto-app  
+- 🛒 **Simple E-Commerce Cart (Backend)**  
+  Developed a basic e-commerce backend with product and cart functionality, focusing on REST API design and backend logic.  
+  👉 https://github.com/kiccha04/simple-ecommerce-cart
 
-- ✈️ **Travel Website**  
-  Tourism portal with booking functionality.  
-  👉 https://github.com/kiccha04/travel-website  
 
 ---
 
